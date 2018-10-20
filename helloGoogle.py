@@ -1,1 +1,1 @@
-#hello goog
+#hello Python
